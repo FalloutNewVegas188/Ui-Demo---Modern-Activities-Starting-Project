@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp ContentHash="T4IIWEdSbkSdhlT9v3XfcA" FilePath="C:\Users\PhilipLin\OneDrive - Medcor Revenue Services, Inc\Documents\UiPath\UiDemo-ModernActivities-StartingProject\uidouble.exe" Selector="&lt;wnd app='uidouble.exe' cls='HwndWrapper*' title='DoubleUI'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Kyx5w7aCnEqclpcq2QbT5g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="abdbd10ff05daaaa22b3bdbbdeb53d94.png" xmlns="">0B4RKsSziN026TnlSjrcE9w</imageRef>
+</TargetApp>
