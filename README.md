@@ -1,1 +1,1 @@
-Ui Demo project on Modern Activities 
+Ui Demo project on Modern Activities
